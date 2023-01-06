@@ -1,0 +1,20 @@
+{
+  "name": "ac-apps-minimal-enhance-argv",
+  "version": "0.0.7",
+  "description": "enhance/argv.js: A module bundled by ac-bundle-module.",
+  "main": "enhance/argv.js",
+  "scripts": {
+    "start": "node enhance/argv.js"
+  },
+  "keywords": [
+    "enhance/argv.js",
+    "ac-bundle-app",
+    "ac-bundle-module"
+  ],
+  "repository": {
+    "url": "https://animatedcreativity.com/code/node-js/ac-apps-minimal/modules/ac-apps-minimal-enhance-argv/"
+  },
+  "author": "Animated Creativity",
+  "license": "MIT",
+  "dependencies": {}
+}
